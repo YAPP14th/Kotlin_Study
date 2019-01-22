@@ -38,7 +38,7 @@
 2. Kotlin in Action 단원별 공부한 내용을 fork한 레포의 각자 이름 폴더에 자주 커밋 푸시한다.  
 3. 스터디 오기 전 organization 마지막 푸시를 하고 온다.  
 4. 스터디 온 후 각자 공부한 내용을 이야기하고, origanization 레포에 pull request 한다.  
-
+참고 : [origin 레포에 pull request 날리는 방법](https://medium.com/axisj/github-fork-%EC%97%90%EC%84%9C-pull-request-%EA%B9%8C%EC%A7%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-merge-a22bdd097283)
 
 ### 5. 참여 인원  
 - PM : 이상우  
