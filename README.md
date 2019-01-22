@@ -34,8 +34,8 @@
 - 9주차 : 위 일정이 연장되면 한 주 더 진행 (아마 03/26?)
 
 ### 4. 레포 정리 방법
-1. organization kotlin study 레포를 fork한다.
-2. Kotlin in Action 단원별 공부한 내용을 각자 fork한 레포의 각자폴더에 자주 커밋 푸시한다.
+1. organization 레포를 각자 fork한다.
+2. Kotlin in Action 단원별 공부한 내용을 fork한 레포의 각자 이름 폴더에 자주 커밋 푸시한다.  
 3. 스터디 오기 전 organization 마지막 푸시를 하고 온다.  
 4. 스터디 온 후 각자 공부한 내용을 이야기하고, origanization 레포에 pull request 한다.  
 
