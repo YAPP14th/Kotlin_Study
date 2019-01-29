@@ -114,8 +114,8 @@
 - class, interface, generics
 - null safety
 - 함수형 타입 지원
-> <span style="font-size:24px">참고</span> (다른 글에 옮길 예정)
-> <div><span style="font-size:18px">Q : 정적 타입 지정이라 함은</span>  (ex> Java)</div>
+> **참고 (다른 글에 옮길 예정)**
+> **Q : 정적 타입 지정이라 함은 (ex> Java)**
 > - 모든 프로그램 구성 요소 타입을 컴파일 시점에 알 수 있다.  
 > - 프로그램 안에서 객체의 필드나 메소드를 사용할 때마다 컴파일러가 타입을 검증한다.  
 >  
