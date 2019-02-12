@@ -11,6 +11,7 @@ class Hw2 {
             val s=scan1.nextLine()
             val s2=s.split(" ")
             try{
+                
                 if(s2[1]=="+"||s2[1]=="-"||s2[1]=="*"||s2[1]=="/") {
 
                     when (s2[1]) {
