@@ -1,8 +1,8 @@
 import java.util.*
 
-class Main {
+class Hw1 {
     companion object {
-        @JvmStatic
+        //@JvmStatic
         fun main(args: Array<String>) {
 
             val scan: Scanner= Scanner(System.`in`)
