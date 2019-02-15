@@ -1,6 +1,7 @@
 # IntelliJ에서 작업하기
 
-### 일단 Pull Request를 제가 다 날렸을꺼에요. 먼저 합치기 작업을 진행해주세요
+### 일단 Pull Request를 제가 다 날렸을꺼에요.
+Pull Request 날린거 선택하고, 각자 레포를 Merge 해주세요
 
 ### 1. IntelliJ Idea를 실행하여 각자 자기 레포를 clone 받는다.
 (ex> https://github.com/ridickle7/Kotlin_Study.git)
@@ -54,5 +55,5 @@
 ![image](https://github.com/ridickle7/Kotlin_Study/blob/master/0_study/0_reference/09_set_kotlin_configure.png?raw=true)
 
 ### 13. kts 파일을 이용하는 경우 
-**script runtime library**를 **import** 한다. (아래같이 진행하면 됨)
+- **script runtime library**를 **import** 한다. (아래같이 진행하면 됨)  
 ![image](https://github.com/ridickle7/Kotlin_Study/blob/master/0_study/0_reference/10_add_script_library.png?raw=true)
