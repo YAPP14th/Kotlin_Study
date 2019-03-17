@@ -1,6 +1,6 @@
 package _6th
 
-class _2_Step2 {
+class _02_Step2 {
 //    fun function1() {
 //    }
 //
