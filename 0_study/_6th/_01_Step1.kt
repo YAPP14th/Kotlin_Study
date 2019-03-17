@@ -1,6 +1,6 @@
 package _6th
 
-class _1_Step1 {
+class _01_Step1 {
 //    val number1 : Int
 //    var number2 : Int = 3
 //    var number3 = 3
